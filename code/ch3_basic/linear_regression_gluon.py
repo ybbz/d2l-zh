@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+# 线性回归的简洁实现
 
 # 生成数据集
 from mxnet import autograd, nd
